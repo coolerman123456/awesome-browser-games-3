@@ -21,7 +21,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 
 | Game | Description | Play |
 |------|-------------|------|
-| **[38-0](https://www.38-0.pro/)** | Build your unbeaten Premier League XI. A football draft game where you assemble a squad capable of going 38 games unbeaten — emulating the "Invincibles" feat. | [▶ Play](https://www.38-0.pro/) |
+| **[38-0](https://www.38-0.pro/)** | Draft 11 Premier League legends, pick your formation, and simulate a full 38-match season with Monte Carlo. Can your dream team go 38-0? | [▶ Play](https://www.38-0.pro/) |
 | *More coming soon* | | |
 
 ## 🏀 Basketball
